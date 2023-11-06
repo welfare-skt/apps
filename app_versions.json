@@ -1,0 +1,32 @@
+{
+	"android": {
+		"qa": [
+			{
+				"version": "welfare-1.10.3-qa",
+				"link": "https://www.dropbox.com/scl/fi/mq8twuexdwdkqjjjystwr/welfare-1.10.3-qa.apk?rlkey=xpie8sdrp75okn8hlfvafe5mm&dl=0"
+			}
+		],
+		"prod": [
+			{
+				"version": "welfare-1.10.3-prd",
+				"link": "https://www.dropbox.com/scl/fi/wow5xulbjvowaaqfuqeln/welfare-1.10.3-prd.apk?rlkey=12prjvieij1yjagttgia4wme7&dl=0"
+			}
+		]
+	},
+	"ios": {
+		"qa": [
+			{
+				"version": "Welfare_1.7.0_qa",
+				"link": "https://www.dropbox.com/scl/fi/qvejii8lqu7y67lu1zbr5/manifest_1.7.0.plist?rlkey=5x3ww2uo8aljefeshld7ef1mo&dl=0",
+				"file": "https://www.dropbox.com/scl/fi/ga95tbriwj53dl9a7b39u/Welfare_1.7.0_qa.ipa?rlkey=x47rujzciq08yesp8ysvd9bq9&dl=0"
+			}
+		],
+		"prod": [
+			{
+				"version": "Welfare_1.7.1_prod",
+				"link": "https://www.dropbox.com/scl/fi/p0k5reej0ndb6v8038hmw/manifest_1.7.1.plist?rlkey=q2ty1a36mrtud7jq0ze739h9t&dl=0",
+				"file": "https://www.dropbox.com/scl/fi/6uk7jpfqcf9i4uc6px0ov/Welfare_1.7.1_prod.ipa?rlkey=chr1gzlqz9itjsnhkntsassmt&dl=0"
+			}
+		]
+	}
+}
